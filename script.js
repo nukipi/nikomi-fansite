@@ -160,6 +160,20 @@ function toggleInfoPanel(id) {
 }
 
 // Activity Log Data is now loaded from activity-data.js
+
+function renderActivityLog() {
+    const container = document.getElementById('activity-log');
+    if (!container) return;
+
+    // Sort by date descending
+    const sortedData = [...activityData].sort((a, b) => {
+        return new Date(b.date.split(' ')[0]) - new Date(a.date.split(' ')[0]);
+    });
+
+    // Group by year and month
+    const grouped = {};
+    sortedData.forEach(item => {
+        const datePart = item.date.split(' ')[0];
         const [year, month] = datePart.split('/');
         if (!grouped[year]) grouped[year] = {};
         if (!grouped[year][month]) grouped[year][month] = [];
@@ -259,7 +273,7 @@ function getPlaceClass(place) {
 
 function getLinkHtml(url) {
     if (!url || url.trim() === '') {
-        return '';
+        return '<span class="activity-link-missing">リンク未確認</span>';
     }
     if (url.startsWith('http://') || url.startsWith('https://')) {
         return `

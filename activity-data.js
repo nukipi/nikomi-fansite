@@ -571,29 +571,9 @@ const activityData = [
         "url": "https://x.com/RyuzenNikomi/status/2052773094117544239"
     },
     {
-        "date": "2026/05/09",
+        "date": "2026/05/11 2:42:00",
         "place": "withny",
         "memo": "ポリネシアンセックス最終日♡トラブルで焦らし時間が長くなり性欲大爆発♡1時間近く絶頂しっぱなし♡",
         "url": "https://x.com/RyuzenNikomi/status/2053158866905698418"
-    },
-    {
-        "date": "2026/05/11",
-        "place": "ツイキャス",
-        "memo": "にんばんは",
-        "url": "https://x.com/RyuzenNikomi/status/2053834306607583596"
     }
 ]
-
-function renderActivityLog() {
-    const container = document.getElementById('activity-log');
-    if (!container) return;
-
-    // Sort by date descending
-    const sortedData = [...activityData].sort((a, b) => {
-        return new Date(b.date.split(' ')[0]) - new Date(a.date.split(' ')[0]);
-    });
-
-    // Group by year and month
-    const grouped = {};
-    sortedData.forEach(item => {
-        const datePart = item.date.split(' ')[0];
