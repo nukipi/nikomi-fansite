@@ -549,7 +549,7 @@ const activityData = [
     {
         "date": "2026/05/05",
         "place": "withny",
-        "memo": "ポリネシアンセックス1日目♡ 今日はハグとマッサージ♡ キス禁止だけど耳舐めるフリはいいよね…？」 キスすらできないの余計むらむらしたでござるな！？💢♡",
+        "memo": "ポリネシアンセックス1日目♡ 今日はハグとマッサージ♡ キス禁止だけど耳舐めるフリはいいよね…？」 https://t.co/1dDG9vJKDs キスすらできないの余計むらむらしたでござるな！？💢♡",
         "url": "https://x.com/RyuzenNikomi/status/2051680423999373623"
     },
     {
@@ -571,9 +571,21 @@ const activityData = [
         "url": "https://x.com/RyuzenNikomi/status/2052773094117544239"
     },
     {
-        "date": "2026/05/11 2:42:00",
+        "date": "2026/05/09",
         "place": "withny",
         "memo": "ポリネシアンセックス最終日♡トラブルで焦らし時間が長くなり性欲大爆発♡1時間近く絶頂しっぱなし♡",
         "url": "https://x.com/RyuzenNikomi/status/2053158866905698418"
+    },
+    {
+        "date": "2026/05/11",
+        "place": "ツイキャス",
+        "memo": "にんばんは",
+        "url": "https://x.com/RyuzenNikomi/status/2053834306607583596"
+    },
+    {
+        "date": "2026/05/13",
+        "place": "Youtube",
+        "memo": "YouTube たまには息抜きにマイクラでもやるでござるか… てことで 次何したらいい？？【minecraft】",
+        "url": "https://x.com/RyuzenNikomi/status/2054560721812554186"
     }
-]
+];
