@@ -587,5 +587,11 @@ const activityData = [
         "place": "Youtube",
         "memo": "YouTube たまには息抜きにマイクラでもやるでござるか… てことで 次何したらいい？？【minecraft】",
         "url": "https://x.com/RyuzenNikomi/status/2054560721812554186"
+    },
+    {
+        "date": "2026/05/15",
+        "place": "ツイキャス",
+        "memo": "影千代と",
+        "url": "https://x.com/RyuzenNikomi/status/2055270282311737528"
     }
 ];
