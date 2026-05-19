@@ -593,5 +593,11 @@ const activityData = [
         "place": "ツイキャス",
         "memo": "影千代と",
         "url": "https://x.com/RyuzenNikomi/status/2055270282311737528"
+    },
+    {
+        "date": "2026/05/17",
+        "place": "Youtube",
+        "memo": "22：00　🍾YouTube 共食い呑み ",
+        "url": "https://x.com/RyuzenNikomi/status/2055986841783075326"
     }
 ];
