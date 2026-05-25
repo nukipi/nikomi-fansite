@@ -599,5 +599,17 @@ const activityData = [
         "place": "Youtube",
         "memo": "22：00　🍾YouTube 共食い呑み ",
         "url": "https://x.com/RyuzenNikomi/status/2055986841783075326"
+    },
+    {
+        "date": "2026/05/25",
+        "place": "withny",
+        "memo": "【3D】むらむらするからオナホになってシコシコ♡お尻視点でオナホ宣言♡」 https://t.co/zzdskoOx4F ひさびさすぎてすぐイッちゃったでござるな…♡",
+        "url": "https://x.com/RyuzenNikomi/status/2058213054517772508"
+    },
+    {
+        "date": "2026/05/25",
+        "place": "Youtube",
+        "memo": "23：00　YouTube 晩酌（ちょっと）",
+        "url": "https://x.com/RyuzenNikomi/status/2058543895873794468"
     }
 ];
