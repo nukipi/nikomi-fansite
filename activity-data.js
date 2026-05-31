@@ -617,5 +617,11 @@ const activityData = [
         "place": "Youtube",
         "memo": "21:30～ YouTube 【違う冬の僕ら】にこみ視点　違う世界が見えるゲームで協力！【狐月れんげ】れんげ殿(@renge_kitutuki )とコラボでござるよ！<br><br><span style=\"font-size: 0.95em; color: #555;\">🍑🍼れんげ殿のXはこちら：<a href=\"https://x.com/renge_kitutuki\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #d05b8d; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@renge_kitutuki</a></span>",
         "url": "https://x.com/RyuzenNikomi/status/2060662273790857257"
+    },
+    {
+        "date": "2026/06/01",
+        "place": "Youtube",
+        "memo": "21:30～ YouTube 【違う冬の僕ら】にこみ視点　違う世界が見えるゲームで協力！【狐月れんげ】れんげ殿(@renge_kitutuki )とコラボでござるよ！<br><br><span style=\"font-size: 0.95em; color: #555;\">🍑🍼れんげ殿のXはこちら：<a href=\"https://x.com/renge_kitutuki\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #d05b8d; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@renge_kitutuki</a></span>",
+        "url": "https://x.com/RyuzenNikomi/status/2060662273790857257"
     }
 ];
