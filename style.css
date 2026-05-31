@@ -1215,17 +1215,6 @@ footer {
     }
 }
 
-/* Reduced Motion */
-@media (prefers-reduced-motion: reduce) {
-    *,
-    *::before,
-    *::after {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        scroll-behavior: auto !important;
-        transition-duration: 0.01ms !important;
-    }
-}
 
 /* -------------------------------------
    Sample Section Styles (X Embed Alternative)
@@ -1353,5 +1342,124 @@ details[open] > .sample-year-toggle::after {
 
     .sample-link {
         margin-top: 16px;
+    }
+}
+
+/* -------------------------------------
+   Easter Egg: Daily Shot Modal
+   ------------------------------------- */
+
+.daily-shot-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: rgba(0, 43, 94, 0.28);
+    backdrop-filter: blur(4px);
+}
+
+.daily-shot-modal.hidden {
+    display: none;
+}
+
+.daily-shot-card {
+    position: relative;
+    width: min(720px, 94vw);
+    padding: 24px;
+    background: rgba(255, 255, 255, 0.94);
+    border: 3px solid rgba(142, 235, 255, 0.9);
+    border-radius: 26px;
+    box-shadow: 0 18px 46px rgba(0, 43, 94, 0.28);
+    text-align: center;
+    animation: dailyPoof 0.55s ease-out both;
+}
+
+.daily-shot-card h3 {
+    margin: 0 0 6px;
+    color: #00345f;
+    font-size: 1.5rem;
+}
+
+.daily-shot-desc {
+    margin: 0 0 16px;
+    color: #555;
+    font-weight: 800;
+}
+
+.daily-shot-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 70vh;
+    object-fit: contain;
+    border-radius: 18px;
+    border: 2px solid rgba(255, 255, 255, 0.9);
+    box-shadow: 0 10px 26px rgba(0, 94, 160, 0.16);
+}
+
+.daily-shot-close {
+    position: absolute;
+    top: 12px;
+    right: 14px;
+    border: none;
+    background: linear-gradient(135deg, #00BFFF, #8EEBFF);
+    color: #00345f;
+    width: 34px;
+    height: 34px;
+    border-radius: 999px;
+    font-size: 1.2rem;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+#daily-shot-trigger {
+    cursor: pointer;
+    transition: transform 0.2s ease, text-shadow 0.2s ease;
+}
+
+#daily-shot-trigger:hover {
+    transform: scale(1.04);
+    text-shadow:
+        -3px -3px 0 #fff,
+         3px -3px 0 #fff,
+        -3px  3px 0 #fff,
+         3px  3px 0 #fff,
+         0 0 14px rgba(0, 191, 255, 0.45);
+}
+
+@keyframes dailyPoof {
+    0% {
+        opacity: 0;
+        transform: scale(0.82) translateY(12px);
+        filter: blur(10px);
+    }
+    65% {
+        opacity: 1;
+        transform: scale(1.03) translateY(0);
+        filter: blur(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+        filter: blur(0);
+    }
+}
+
+@media (max-width: 600px) {
+    .daily-shot-card {
+        padding: 18px;
+        border-radius: 20px;
+    }
+
+    .daily-shot-card h3 {
+        font-size: 1.25rem;
+    }
+
+    .daily-shot-card img {
+        max-height: 64vh;
+        border-radius: 14px;
     }
 }

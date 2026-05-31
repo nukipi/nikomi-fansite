@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>龍涎にこみ殿 非公式ファンサイト 天井裏</title>
     <meta name="description" content="龍涎にこみ殿を応援する非公式ファンサイト「天井裏」。抜き忍としていつも天井裏から応援しています。">
-    <link rel="stylesheet" href="style.css?v=2.0">
+    <link rel="stylesheet" href="style.css?v=4.0">
     <!-- Google Fonts: Mochiy Pop P One (VTuber pop style) & M PLUS Rounded 1c -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,6 +22,16 @@
                 <button id="btn-no" class="btn btn-no">いいえ</button>
             </div>
             <p id="modal-error" class="modal-error">18歳未満の方はご閲覧いただけません。</p>
+        </div>
+    </div>
+
+    <!-- Daily Shot Modal (Easter Egg) -->
+    <div id="daily-shot-modal" class="daily-shot-modal hidden">
+        <div class="daily-shot-card">
+            <button id="daily-shot-close" class="daily-shot-close">×</button>
+            <h3>今日の一枚</h3>
+            <p class="daily-shot-desc">天井裏からこっそり一枚。</p>
+            <img id="daily-shot-image" src="" alt="今日の一枚">
         </div>
     </div>
 
@@ -49,7 +59,7 @@
                 </div>
                 <div class="subtitle-box">
                     <span class="logo-sub-small">非公式ファンサイト</span><br>
-                    <span class="logo-sub-large">天井裏</span>
+                    <span class="logo-sub-large" id="daily-shot-trigger">天井裏</span>
                 </div>
             </h1>
         </div>
@@ -472,7 +482,7 @@
         </div>
     </footer>
 
-    <script src="activity-data.js"></script>
-    <script src="script.js"></script>
+    <script src="activity-data.js?v=4.0"></script>
+    <script src="script.js?v=4.0"></script>
 </body>
 </html>
