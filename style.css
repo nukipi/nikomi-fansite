@@ -312,6 +312,76 @@ h1, h2, h3, h4, .tab-btn, .site-title, .modal-title {
     flex: 1 0 auto;
 }
 
+/* Next Schedule Box */
+.next-schedule-box {
+    max-width: 720px;
+    margin: 18px auto 0;
+    padding: 14px 18px;
+    background: rgba(255, 255, 255, 0.76);
+    border: 1px solid rgba(255, 255, 255, 0.95);
+    border-radius: 20px;
+    box-shadow: 0 10px 24px rgba(0, 94, 160, 0.10);
+    text-align: center;
+}
+
+.next-schedule-label {
+    display: inline-block;
+    margin-bottom: 8px;
+    padding: 4px 12px;
+    border-radius: 999px;
+    background: linear-gradient(135deg, #00BFFF, #8EEBFF);
+    color: #00345f;
+    font-weight: 900;
+    font-size: 0.9rem;
+}
+
+.next-schedule-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 10px;
+}
+
+.next-schedule-list li {
+    color: #00345f;
+    font-weight: 800;
+    line-height: 1.7;
+}
+
+.next-schedule-empty {
+    margin: 0;
+    color: #00345f;
+    font-weight: 900;
+}
+
+.next-schedule-link {
+    display: inline-block;
+    margin-top: 4px;
+    padding: 8px 16px;
+    border-radius: 999px;
+    background: #111;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 0.9rem;
+    transition: transform 0.2s, background 0.2s;
+}
+
+.next-schedule-link:hover {
+    transform: scale(1.05);
+    background: #333;
+}
+
+@media (max-width: 600px) {
+    .next-schedule-box {
+        margin: 14px 14px 0;
+        padding: 12px 14px;
+    }
+
+    .next-schedule-list li {
+        font-size: 0.92rem;
+    }
+}
+
 /* Glass Section */
 .glass-section {
     background: linear-gradient(180deg, rgba(255,255,255,0.82), rgba(255,255,255,0.62));
