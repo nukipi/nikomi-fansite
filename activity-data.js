@@ -635,5 +635,11 @@ const activityData = [
         "place": "Youtube",
         "memo": "れんげ殿と晩酌雑談🍻",
         "url": "https://x.com/RyuzenNikomi/status/2062880565926547528"
+    },
+    {
+        "date": "2026/06/08",
+        "place": "withny",
+        "memo": "イキ我慢したら我慢できなくてお仕置き(?)挿入30分♡我慢してた分爆発して謝罪しながら大量潮吹き♡",
+        "url": "https://x.com/RyuzenNikomi/status/2063663694412922944"
     }
 ];
