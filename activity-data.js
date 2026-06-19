@@ -641,5 +641,17 @@ const activityData = [
         "place": "withny",
         "memo": "イキ我慢したら我慢できなくてお仕置き(?)挿入30分♡我慢してた分爆発して謝罪しながら大量潮吹き♡",
         "url": "https://x.com/RyuzenNikomi/status/2063663694412922944"
+    },
+    {
+        "date": "2026/06/19",
+        "place": "Youtube",
+        "memo": "21:00~ YouTube 雪音ちゃんのトモコレをオマージュしてみたでござる 今日は日本酒を飲むでござるよ🍶 金曜日のコンプラ崩壊酒場【狐月れんげ】【飲み雑談】＃れんげにこみ<br><br><span style=\"font-size: 0.95em; color: #555;\">🍑🍼れんげ殿のXはこちら：<a href=\"https://x.com/renge_kitutuki\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #d05b8d; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@renge_kitutuki</a></span>",
+        "url": "https://x.com/RyuzenNikomi/status/2065386962195017843"
+    },
+    {
+        "date": "2026/06/19",
+        "place": "withny",
+        "memo": "23:00 withny 👅 【コラボ耳舐め】【梵雪音×龍涎にこみ】耳舐めハーレム♡  梵雪音ちゃん@Setsune_Soyogi と コラボ耳舐め♡ お知らせもあるでござるよ～ん💙💓",
+        "url": "https://x.com/RyuzenNikomi/status/2067959700973605145"
     }
 ];
