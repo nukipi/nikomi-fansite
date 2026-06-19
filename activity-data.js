@@ -643,7 +643,7 @@ const activityData = [
         "url": "https://x.com/RyuzenNikomi/status/2063663694412922944"
     },
     {
-        "date": "2026/06/19",
+        "date": "2026/06/12",
         "place": "Youtube",
         "memo": "21:00~ YouTube 雪音ちゃんのトモコレをオマージュしてみたでござる 今日は日本酒を飲むでござるよ🍶 金曜日のコンプラ崩壊酒場【狐月れんげ】【飲み雑談】＃れんげにこみ<br><br><span style=\"font-size: 0.95em; color: #555;\">🦋 せつね殿のXはこちら：<a href=\"https://x.com/Setsune_Soyogi\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #5c85ff; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@Setsune_Soyogi</a></span>",
         "url": "https://x.com/RyuzenNikomi/status/2065386962195017843"
