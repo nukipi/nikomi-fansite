@@ -615,19 +615,19 @@ const activityData = [
     {
         "date": "2026/05/31",
         "place": "Youtube",
-        "memo": "21:30～ YouTube 【違う冬の僕ら】にこみ視点　違う世界が見えるゲームで協力！【狐月れんげ】れんげ殿(@renge_kitutuki )とコラボでござるよ！<br><br><span style=\"font-size: 0.95em; color: #555;\">🍑🍼れんげ殿のXはこちら：<a href=\"https://x.com/renge_kitutuki\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #d05b8d; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@renge_kitutuki</a></span>",
+        "memo": "21:30～ YouTube 【違う冬の僕ら】にこみ視点　違う世界が見えるゲームで協力！【狐月れんげ】れんげ殿(@renge_kitutuki )とコラボでござるよ！",
         "url": "https://x.com/RyuzenNikomi/status/2060662273790857257"
     },
     {
         "date": "2026/06/01",
         "place": "Youtube",
-        "memo": "21:30～ YouTube 【違う冬の僕ら】にこみ視点　違う世界が見えるゲームで協力！【狐月れんげ】れんげ殿(@renge_kitutuki )とコラボでござるよ！<br><br><span style=\"font-size: 0.95em; color: #555;\">🍑🍼れんげ殿のXはこちら：<a href=\"https://x.com/renge_kitutuki\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #d05b8d; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@renge_kitutuki</a></span>",
+        "memo": "21:30～ YouTube 【違う冬の僕ら】にこみ視点　違う世界が見えるゲームで協力！【狐月れんげ】れんげ殿(@renge_kitutuki )とコラボでござるよ！",
         "url": "https://x.com/RyuzenNikomi/status/2060662273790857257"
     },
     {
         "date": "2026/06/03",
         "place": "Youtube",
-        "memo": "21:30 YouTube #3【違う冬のぼくら】にこみ視点 視点が入れ替わっちゃった！エンディング回収【狐月れんげ】 ＃れんげにこみ <br><br><span style=\"font-size: 0.95em; color: #555;\">🍑🍼れんげ殿のXはこちら：<a href=\"https://x.com/renge_kitutuki\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #d05b8d; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@renge_kitutuki</a></span>",
+        "memo": "21:30 YouTube #3【違う冬のぼくら】にこみ視点 視点が入れ替わっちゃった！エンディング回収【狐月れんげ】 ＃れんげにこみ ",
         "url": "https://x.com/RyuzenNikomi/status/2061761755962110237"
     },
     {
@@ -645,13 +645,13 @@ const activityData = [
     {
         "date": "2026/06/19",
         "place": "Youtube",
-        "memo": "21:00~ YouTube 雪音ちゃんのトモコレをオマージュしてみたでござる 今日は日本酒を飲むでござるよ🍶 金曜日のコンプラ崩壊酒場【狐月れんげ】【飲み雑談】＃れんげにこみ<br><br><span style=\"font-size: 0.95em; color: #555;\">🍑🍼れんげ殿のXはこちら：<a href=\"https://x.com/renge_kitutuki\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #d05b8d; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@renge_kitutuki</a></span>",
+        "memo": "21:00~ YouTube 雪音ちゃんのトモコレをオマージュしてみたでござる 今日は日本酒を飲むでござるよ🍶 金曜日のコンプラ崩壊酒場【狐月れんげ】【飲み雑談】＃れんげにこみ<br><br><span style=\"font-size: 0.95em; color: #555;\">🦋 せつね殿のXはこちら：<a href=\"https://x.com/Setsune_Soyogi\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #5c85ff; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@Setsune_Soyogi</a></span>",
         "url": "https://x.com/RyuzenNikomi/status/2065386962195017843"
     },
     {
         "date": "2026/06/19",
         "place": "withny",
-        "memo": "23:00 withny 👅 【コラボ耳舐め】【梵雪音×龍涎にこみ】耳舐めハーレム♡  梵雪音ちゃん@Setsune_Soyogi と コラボ耳舐め♡ お知らせもあるでござるよ～ん💙💓",
+        "memo": "23:00 withny 👅 【コラボ耳舐め】【梵雪音×龍涎にこみ】耳舐めハーレム♡  梵雪音ちゃん@Setsune_Soyogi と コラボ耳舐め♡ お知らせもあるでござるよ～ん💙💓<br><br><span style=\"font-size: 0.95em; color: #555;\">🦋 せつね殿のXはこちら：<a href=\"https://x.com/Setsune_Soyogi\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #5c85ff; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@Setsune_Soyogi</a></span>",
         "url": "https://x.com/RyuzenNikomi/status/2067959700973605145"
     }
 ];
