@@ -653,5 +653,11 @@ const activityData = [
         "place": "withny",
         "memo": "23:00 withny 👅 【コラボ耳舐め】【梵雪音×龍涎にこみ】耳舐めハーレム♡  梵雪音ちゃん@Setsune_Soyogi と コラボ耳舐め♡ お知らせもあるでござるよ～ん💙💓<br><br><span style=\"font-size: 0.95em; color: #555;\">🦋 せつね殿のXはこちら：<a href=\"https://x.com/Setsune_Soyogi\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #5c85ff; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@Setsune_Soyogi</a></span>",
         "url": "https://x.com/RyuzenNikomi/status/2067959700973605145"
+    },
+    {
+        "date": "2026/06/24",
+        "place": "withny",
+        "memo": "アーカイブはこちら♡ 【射精管理コラボ】梵雪音ちゃんと一緒におちんぽを管理してイグゥッ♡♡♡<br><br><span style=\"font-size: 0.95em; color: #555;\">🦋 せつね殿のXはこちら：<a href=\"https://x.com/Setsune_Soyogi\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #5c85ff; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@Setsune_Soyogi</a></span>",
+        "url": "https://x.com/RyuzenNikomi/status/2069848919924961347"
     }
 ];
