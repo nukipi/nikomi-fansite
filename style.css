@@ -317,7 +317,7 @@ h1, h2, h3, h4, .tab-btn, .site-title, .modal-title {
     max-width: 760px;
     margin: 20px auto 25px;
     padding: 20px;
-    background: linear-gradient(135deg, rgba(255, 235, 245, 0.9), rgba(235, 245, 255, 0.9));
+    background: linear-gradient(135deg, rgba(255, 240, 248, 0.85), rgba(240, 248, 255, 0.85)), url('collab-jacket.jpg') center/cover no-repeat;
     border: 2px solid rgba(255, 255, 255, 1);
     border-radius: 20px;
     box-shadow: 0 10px 25px rgba(255, 105, 180, 0.2), inset 0 0 15px rgba(255, 255, 255, 0.5);
