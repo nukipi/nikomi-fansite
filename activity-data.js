@@ -671,5 +671,35 @@ const activityData = [
         "place": "withny",
         "memo": "誓いの中出しお願いします♡新婚シチュでラブラブセックス♡中出しされながら潮吹き♡お味噌汁飲みながら耳舐めされるの気持ちよかった？？？",
         "url": "https://x.com/RyuzenNikomi/status/2071980939006312675"
+    },
+    {
+        "date": "2026/07/03",
+        "place": "Twitch",
+        "memo": "今日は２１時くらいから Twitchでにこみ殿とコンプラ崩壊酒場だよーん💕 たのしみ💕 ",
+        "url": "https://x.com/renge_kitutuki/status/2072916921373331874"
+    },
+    {
+        "date": "2026/07/04",
+        "place": "ツイキャス",
+        "memo": "シャクティ雑談 ",
+        "url": "https://x.com/RyuzenNikomi/status/2073405658536571317"
+    },
+    {
+        "date": "2026/07/05",
+        "place": "ツイキャス",
+        "memo": "にんばんは",
+        "url": "https://x.com/RyuzenNikomi/status/2073774641370603871"
+    },
+    {
+        "date": "2026/07/07",
+        "place": "ツイキャス",
+        "memo": "にんはよう",
+        "url": "https://x.com/RyuzenNikomi/status/2074440855784693875"
+    },
+    {
+        "date": "2026/07/07",
+        "place": "XLive",
+        "memo": "◌⋆｡˚✩*◌⋆｡˚✩*◌⋆｡˚✩*◌ インターネット七夕会場 ◌⋆｡˚✩*◌⋆｡˚✩*◌⋆｡˚✩*◌ 願い事を書きに来てね",
+        "url": "https://x.com/RyuzenNikomi/status/2074474982525239709"
     }
 ];
