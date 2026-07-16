@@ -701,5 +701,23 @@ const activityData = [
         "place": "XLive",
         "memo": "◌⋆｡˚✩*◌⋆｡˚✩*◌⋆｡˚✩*◌ インターネット七夕会場 ◌⋆｡˚✩*◌⋆｡˚✩*◌⋆｡˚✩*◌ 願い事を書きに来てね",
         "url": "https://x.com/RyuzenNikomi/status/2074474982525239709"
+    },
+    {
+        "date": "2026/07/12",
+        "place": "ツイキャス",
+        "memo": "にこみ、生きとったんかワレ",
+        "url": "https://x.com/RyuzenNikomi/status/2076210681981067500"
+    },
+    {
+        "date": "2026/07/15",
+        "place": "withny",
+        "memo": "寝起きに聴いたらいい感じかも…♡？ Ci-enに投稿しました「寝起きえっちしたら気持ちよくて2回潮吹き♡キスしながら絶頂♡中出し懇願♡",
+        "url": "https://x.com/RyuzenNikomi/status/2077478117925634195"
+    },
+    {
+        "date": "2026/07/16",
+        "place": "Youtube",
+        "memo": "5：00　YouTube ねむれないので魔法使いマイクラ… 魔法使いmodで遊んでみるでござる　Iron's Spells 'n Spellbooks【minecraft】",
+        "url": "https://x.com/RyuzenNikomi/status/2077479886202249224"
     }
 ];
