@@ -949,6 +949,32 @@ footer {
         inset 0 -2px 6px rgba(0, 191, 255, 0.12);
 }
 
+.activity-search-container {
+    max-width: 500px;
+    margin: -15px auto 30px;
+    padding: 0 15px;
+}
+
+#activity-search {
+    width: 100%;
+    padding: 12px 20px;
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: var(--text-main);
+    background: rgba(255, 255, 255, 0.9);
+    border: 2px solid #bceaff;
+    border-radius: 999px;
+    box-shadow: inset 0 2px 5px rgba(0,0,0,0.05), 0 4px 10px rgba(0, 191, 255, 0.1);
+    transition: all 0.3s ease;
+    outline: none;
+}
+
+#activity-search:focus {
+    border-color: #00bfff;
+    box-shadow: inset 0 2px 5px rgba(0,0,0,0.05), 0 0 15px rgba(0, 191, 255, 0.3);
+}
+
 .activity-year {
     font-family: 'Mochiy Pop P One', sans-serif;
     font-size: 1.5rem;

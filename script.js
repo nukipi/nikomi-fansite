@@ -58,6 +58,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Render Activity Log
     renderActivityLog();
+
+    // Activity Log Search
+    const searchInput = document.getElementById('activity-search');
+    if (searchInput) {
+        searchInput.addEventListener('input', (e) => {
+            renderActivityLog(e.target.value);
+        });
+    }
 });
 
 // Intersection Observer for animations
@@ -161,12 +169,23 @@ function toggleInfoPanel(id) {
 
 // Activity Log Data is now loaded from activity-data.js
 
-function renderActivityLog() {
+function renderActivityLog(searchQuery = '') {
     const container = document.getElementById('activity-log');
     if (!container) return;
 
+    // Filter by search query if it exists
+    let filteredData = activityData;
+    if (searchQuery.trim() !== '') {
+        const lowerQuery = searchQuery.toLowerCase();
+        filteredData = activityData.filter(item => {
+            return (item.date && item.date.toLowerCase().includes(lowerQuery)) ||
+                   (item.place && item.place.toLowerCase().includes(lowerQuery)) ||
+                   (item.memo && item.memo.toLowerCase().includes(lowerQuery));
+        });
+    }
+
     // Sort by date descending
-    const sortedData = [...activityData].sort((a, b) => {
+    const sortedData = [...filteredData].sort((a, b) => {
         return new Date(b.date.split(' ')[0]) - new Date(a.date.split(' ')[0]);
     });
 
@@ -190,7 +209,8 @@ function renderActivityLog() {
         
         months.forEach((month, index) => {
             const isLatest = (year === years[0] && index === 0);
-            const openClass = isLatest ? 'open' : '';
+            const isSearching = searchQuery.trim() !== '';
+            const openClass = (isLatest || isSearching) ? 'open' : '';
             
             html += `
                 <div class="activity-month-group ${openClass}">
