@@ -719,5 +719,35 @@ const activityData = [
         "place": "Youtube",
         "memo": "5：00　YouTube ねむれないので魔法使いマイクラ… 魔法使いmodで遊んでみるでござる　Iron's Spells 'n Spellbooks【minecraft】",
         "url": "https://x.com/RyuzenNikomi/status/2077479886202249224"
+    },
+    {
+        "date": "2026/07/24",
+        "place": "ツイキャス",
+        "memo": "新鮮な高級機材を捌いていくぅ！",
+        "url": "https://x.com/RyuzenNikomi/status/2080522035961430416"
+    },
+    {
+        "date": "2026/07/24",
+        "place": "Youtube",
+        "memo": "16:15～YouTube 【バイノーラル】新しい機材の音質テストでござる！",
+        "url": "https://x.com/RyuzenNikomi/status/2080549560766886347"
+    },
+    {
+        "date": "2026/07/24",
+        "place": "Youtube",
+        "memo": "21:00～YouTube🍻 2026/7/24 金曜日のコンプラ崩壊酒場【狐月れんげ】【飲み雑談】<br><br><span style=\"font-size: 0.95em; color: #555;\">🍑🍼れんげ殿のXはこちら：<a href=\"https://x.com/renge_kitutuki\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #d05b8d; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@renge_kitutuki</a></span>",
+        "url": "https://x.com/RyuzenNikomi/status/2080579768836387111"
+    },
+    {
+        "date": "2026/07/27",
+        "place": "ツイキャス",
+        "memo": "にんにちは",
+        "url": "https://x.com/RyuzenNikomi/status/2081576101290357143"
+    },
+    {
+        "date": "2026/07/27",
+        "place": "ツイキャス",
+        "memo": "にんにちは",
+        "url": "https://x.com/RyuzenNikomi/status/2081636932027879878"
     }
 ];

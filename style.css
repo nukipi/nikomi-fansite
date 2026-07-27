@@ -429,6 +429,49 @@ h1, h2, h3, h4, .tab-btn, .site-title, .modal-title {
     }
 }
 
+/* Special Doujin Banner */
+.special-doujin-banner {
+    max-width: 760px;
+    margin: 15px auto 25px;
+    padding: 22px 20px;
+    background: linear-gradient(135deg, rgba(255, 245, 230, 0.92), rgba(255, 235, 245, 0.92));
+    border: 2px solid rgba(255, 255, 255, 1);
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(255, 140, 0, 0.18), inset 0 0 15px rgba(255, 255, 255, 0.6);
+    text-align: center;
+    backdrop-filter: blur(10px);
+    position: relative;
+    overflow: hidden;
+}
+
+.special-doujin-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+}
+
+.special-doujin-header h3 {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 900;
+    color: #e65100;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    text-shadow: 1px 1px 0 #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+
+.doujin-btn {
+    background: linear-gradient(135deg, #ff9800, #f50057);
+}
+
+@media (max-width: 600px) {
+    .special-doujin-header h3 {
+        font-size: 1.05rem;
+    }
+}
+
 /* Next Schedule Box */
 .next-schedule-box {
     max-width: 720px;
