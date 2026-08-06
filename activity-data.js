@@ -749,5 +749,29 @@ const activityData = [
         "place": "ツイキャス",
         "memo": "にんにちは",
         "url": "https://x.com/RyuzenNikomi/status/2081636932027879878"
+    },
+    {
+        "date": "2026/07/31",
+        "place": "withny",
+        "memo": "わざとオホ声でオナニーしたら気持ち良すぎて3回潮吹きしちゃったでござる…」 https://t.co/896sFYozNq 夢中になってしまったでござる…",
+        "url": "https://x.com/RyuzenNikomi/status/2083078705950470359"
+    },
+    {
+        "date": "2026/07/31",
+        "place": "Youtube",
+        "memo": "弾き語りでござる",
+        "url": "https://x.com/RyuzenNikomi/status/2083179814585012580"
+    },
+    {
+        "date": "2026/08/03",
+        "place": "Youtube",
+        "memo": "23:30～　YouTube 【バイノーラル】一日遅れの ＃バニーの日 雑談 ",
+        "url": "https://x.com/RyuzenNikomi/status/2084283351637336175"
+    },
+    {
+        "date": "2026/08/04",
+        "place": "ツイキャス",
+        "memo": "ポトフ作ってからお風呂入るでござる",
+        "url": "https://x.com/RyuzenNikomi/status/2084636032037949784"
     }
 ];
