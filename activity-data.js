@@ -773,5 +773,29 @@ const activityData = [
         "place": "ツイキャス",
         "memo": "ポトフ作ってからお風呂入るでござる",
         "url": "https://x.com/RyuzenNikomi/status/2084636032037949784"
+    },
+    {
+        "date": "2026/08/10",
+        "place": "withny",
+        "memo": "下半身にマイク近づけておまんこASMRしたらゼロ距離潮吹きしちゃったでござる💦💦",
+        "url": "https://x.com/RyuzenNikomi/status/2086842348479332422"
+    },
+    {
+        "date": "2026/08/11",
+        "place": "ツイキャス",
+        "memo": "わんこの爪切りするでござる",
+        "url": "https://x.com/RyuzenNikomi/status/2087171875684380727"
+    },
+    {
+        "date": "2026/08/20",
+        "place": "ツイキャス",
+        "memo": "影千代の新技披露会場 ",
+        "url": "https://x.com/RyuzenNikomi/status/2090432798431879349"
+    },
+    {
+        "date": "2026/08/22",
+        "place": "Youtube",
+        "memo": "【同時視聴の同時視聴】EIKOの同時視聴を皆で同時視聴【まどマギ叛逆】 ",
+        "url": "https://x.com/RyuzenNikomi/status/2090783443005448614"
     }
 ];
