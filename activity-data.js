@@ -797,5 +797,47 @@ const activityData = [
         "place": "Youtube",
         "memo": "【同時視聴の同時視聴】EIKOの同時視聴を皆で同時視聴【まどマギ叛逆】 ",
         "url": "https://x.com/RyuzenNikomi/status/2090783443005448614"
+    },
+    {
+        "date": "2026/08/28",
+        "place": "Youtube",
+        "memo": "21:00～YouTube 【参加型】 オンライン線香花火 2026/8/28 金曜日のコンプラ崩壊酒場 【狐月れんげ】【飲み雑談】 <br><br><span style=\"font-size: 0.95em; color: #555;\">🍑🍼れんげ殿のXはこちら：<a href=\"https://x.com/renge_kitutuki\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #d05b8d; font-weight: bold; text-decoration: underline; text-decoration-style: dashed; text-underline-offset: 4px;\">@renge_kitutuki</a></span>",
+        "url": "https://x.com/RyuzenNikomi/status/2093249290097537128"
+    },
+    {
+        "date": "2026/08/30",
+        "place": "withny",
+        "memo": "Ci-enに投稿しましたでござる！！ 「【耳舐めオナニー】久しぶりにオナニーしたらざこすぎて連続イキしまくっちゃったでござる…」 ",
+        "url": "https://x.com/RyuzenNikomi/status/2094112991872725150"
+    },
+    {
+        "date": "2026/09/04",
+        "place": "withny",
+        "memo": "おっぱいアルペンの滑り心地はいかがでしたでしょうか？ 前半の飴舐め録画失敗してたのでフルのアーカイブはwithnyにありますでござる！ 乳首耳かきASMR♡ ",
+        "url": "https://x.com/RyuzenNikomi/status/2095557518118494504"
+    },
+    {
+        "date": "2026/09/04",
+        "place": "ツイキャス",
+        "memo": "飲酒雑談でござる ",
+        "url": "https://x.com/RyuzenNikomi/status/2095845494467821899"
+    },
+    {
+        "date": "2026/09/07",
+        "place": "ツイキャス",
+        "memo": "にんはよー",
+        "url": "https://x.com/RyuzenNikomi/status/2096874004565098754"
+    },
+    {
+        "date": "2026/09/09",
+        "place": "Youtube",
+        "memo": "スマホからYouTube配信のテストでござる h",
+        "url": "https://x.com/RyuzenNikomi/status/2097559857889235345"
+    },
+    {
+        "date": "2026/09/09",
+        "place": "ツイキャス",
+        "memo": "にんばんは ",
+        "url": "https://x.com/RyuzenNikomi/status/2097581420231434643"
     }
 ];
