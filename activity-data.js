@@ -839,5 +839,35 @@ const activityData = [
         "place": "ツイキャス",
         "memo": "にんばんは ",
         "url": "https://x.com/RyuzenNikomi/status/2097581420231434643"
+    },
+    {
+        "date": "2026/09/12",
+        "place": "ツイキャス",
+        "memo": "ボール投げマシンが届いた ",
+        "url": "https://x.com/RyuzenNikomi/status/2098749314357215256"
+    },
+    {
+        "date": "2026/09/14",
+        "place": "ツイキャス",
+        "memo": "バランスボードに乗ってみるでござる ",
+        "url": "https://x.com/RyuzenNikomi/status/2099484165595152452"
+    },
+    {
+        "date": "2026/09/17",
+        "place": "ツイキャス",
+        "memo": "作業〜　読み上げに反応してるでござる！ ",
+        "url": "https://x.com/RyuzenNikomi/status/2100559293007446142"
+    },
+    {
+        "date": "2026/09/28",
+        "place": "ツイキャス",
+        "memo": "にんばんは",
+        "url": "https://x.com/RyuzenNikomi/status/2104505095509704765"
+    },
+    {
+        "date": "2026/09/29",
+        "place": "withny",
+        "memo": "【フェラチオ特化配信サンプル♡】 チンキス♡チン嗅ぎ♡れろれろ舌責め♡ 最後はカウントダウンとごっくん♡ 「フェラチオ特化配信♡チンキス♡チン嗅ぎ♡最後はカウントダウンとごっくん♡」 ",
+        "url": "https://x.com/RyuzenNikomi/status/2104882297489276951"
     }
 ];
