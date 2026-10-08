@@ -869,5 +869,29 @@ const activityData = [
         "place": "withny",
         "memo": "【フェラチオ特化配信サンプル♡】 チンキス♡チン嗅ぎ♡れろれろ舌責め♡ 最後はカウントダウンとごっくん♡ 「フェラチオ特化配信♡チンキス♡チン嗅ぎ♡最後はカウントダウンとごっくん♡」 ",
         "url": "https://x.com/RyuzenNikomi/status/2104882297489276951"
+    },
+    {
+        "date": "2026/10/02",
+        "place": "Youtube",
+        "memo": "21:00~ ＃れんげにこみ　で　R.E.P.O！",
+        "url": "https://x.com/RyuzenNikomi/status/2105969045879357490"
+    },
+    {
+        "date": "2026/10/06",
+        "place": "ツイキャス",
+        "memo": "にんばんは ",
+        "url": "https://x.com/RyuzenNikomi/status/2107451734763405739"
+    },
+    {
+        "date": "2026/10/06",
+        "place": "Youtube",
+        "memo": "23：30～ 【絶叫注意】【バイノーラル♡ささやき】R.E.P.O！の練習 https://t.co/KW7i8ub6ms 鼓膜の予備の準備を頼むでござる",
+        "url": "https://x.com/RyuzenNikomi/status/2107469988445728863"
+    },
+    {
+        "date": "2026/10/07",
+        "place": "withny",
+        "memo": "Ci-enに投稿しましたでござる♡ 「じっくり耳舐め♡1.5時間♡」",
+        "url": "https://x.com/RyuzenNikomi/status/2107897187913089162"
     }
 ];
