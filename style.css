@@ -1882,7 +1882,7 @@ details[open] > .sample-year-toggle::after {
     font-weight: 800;
     font-size: 1rem;
     line-height: 1.75;
-    margin-bottom: 20px;
+    margin-bottom: 0;
     position: relative;
     z-index: 2;
 }
