@@ -1762,3 +1762,155 @@ details[open] > .sample-year-toggle::after {
         border-radius: 14px;
     }
 }
+
+/* -------------------------------------
+   4th Anniversary Celebration Styles
+   ------------------------------------- */
+.anniversary-ribbon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 8px 24px;
+    margin-bottom: 12px;
+    background: linear-gradient(135deg, #fff6d6 0%, #ffd54f 50%, #ffb300 100%);
+    color: #7a2100;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 1.05rem;
+    font-weight: 900;
+    border-radius: 999px;
+    border: 3px solid #ffffff;
+    box-shadow: 0 6px 20px rgba(255, 160, 0, 0.4), inset 0 2px 4px rgba(255, 255, 255, 0.9);
+    text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.9);
+    animation: floatRibbon 3s ease-in-out infinite;
+}
+
+@keyframes floatRibbon {
+    0%, 100% { transform: translateY(0) scale(1); }
+    50% { transform: translateY(-4px) scale(1.02); }
+}
+
+.confetti-icon {
+    font-size: 1.25rem;
+    display: inline-block;
+    animation: bounceConfetti 1.5s infinite alternate;
+}
+
+@keyframes bounceConfetti {
+    0% { transform: rotate(-10deg) scale(1); }
+    100% { transform: rotate(15deg) scale(1.2); }
+}
+
+.anniversary-banner {
+    max-width: 760px;
+    margin: 20px auto 28px;
+    padding: 32px 24px 28px;
+    background: 
+        radial-gradient(circle at 15% 20%, rgba(255, 215, 0, 0.25) 0%, transparent 40%),
+        radial-gradient(circle at 85% 80%, rgba(255, 105, 180, 0.22) 0%, transparent 40%),
+        linear-gradient(135deg, rgba(255, 252, 235, 0.96), rgba(255, 238, 248, 0.96));
+    border: 3px solid #ffd54f;
+    border-radius: 24px;
+    box-shadow: 
+        0 12px 32px rgba(255, 160, 0, 0.28),
+        0 0 0 4px rgba(255, 255, 255, 0.85),
+        inset 0 0 20px rgba(255, 215, 0, 0.2);
+    text-align: center;
+    backdrop-filter: blur(10px);
+    position: relative;
+    overflow: hidden;
+}
+
+.anniversary-banner::before {
+    content: '';
+    position: absolute;
+    top: 0; left: -100%;
+    width: 60%; height: 100%;
+    background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.8), transparent);
+    transform: skewX(-20deg);
+    animation: shine 3.5s infinite;
+}
+
+.anniversary-badge {
+    display: inline-block;
+    padding: 4px 16px;
+    margin-bottom: 10px;
+    background: linear-gradient(135deg, #ff8f00, #ffca28);
+    color: #fff;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 0.88rem;
+    border-radius: 999px;
+    letter-spacing: 0.08em;
+    box-shadow: 0 4px 10px rgba(255, 143, 0, 0.3);
+    border: 2px solid #fff;
+    position: relative;
+    z-index: 2;
+}
+
+.anniversary-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+    position: relative;
+    z-index: 2;
+}
+
+.anniversary-header h3 {
+    margin: 0;
+    font-size: 1.55rem;
+    font-weight: 900;
+    color: #d81b60;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    text-shadow: 
+        -2px -2px 0 #fff,
+         2px -2px 0 #fff,
+        -2px  2px 0 #fff,
+         2px  2px 0 #fff,
+         0 4px 12px rgba(255, 193, 7, 0.5);
+}
+
+.anniversary-header .sparkle-icon {
+    font-size: 1.8rem;
+    animation: pulseSparkle 1.6s infinite alternate;
+}
+
+.anniversary-desc {
+    color: #5d4037;
+    font-weight: 800;
+    font-size: 1rem;
+    line-height: 1.75;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 2;
+}
+
+.anniversary-btn {
+    background: linear-gradient(135deg, #ff6f00, #ffca28);
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+    border: 2px solid #fff;
+}
+
+.anniversary-sub-btn {
+    background: linear-gradient(135deg, #ec407a, #ff80ab);
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    border: 2px solid #fff;
+}
+
+@media (max-width: 600px) {
+    .anniversary-ribbon {
+        font-size: 0.82rem;
+        padding: 6px 14px;
+    }
+    .anniversary-header h3 {
+        font-size: 1.2rem;
+    }
+    .anniversary-desc {
+        font-size: 0.9rem;
+    }
+}
+

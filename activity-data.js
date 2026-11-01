@@ -893,5 +893,71 @@ const activityData = [
         "place": "withny",
         "memo": "Ci-enに投稿しましたでござる♡ 「じっくり耳舐め♡1.5時間♡」",
         "url": "https://x.com/RyuzenNikomi/status/2107897187913089162"
+    },
+    {
+        "date": "2026/10/10",
+        "place": "withny",
+        "memo": "Ci-enに投稿しましたでござる♡ 「オナニーしながらオナサポ♡し♡で挿れてこ♡で抜く配信♡したら気持ちよくて潮吹いちゃった…」",
+        "url": "https://x.com/RyuzenNikomi/status/2108962520870604886"
+    },
+    {
+        "date": "2026/10/12",
+        "place": "ツイキャス",
+        "memo": "影千代を洗う会 ",
+        "url": "https://x.com/RyuzenNikomi/status/2109302021677523164"
+    },
+    {
+        "date": "2026/10/17",
+        "place": "Youtube",
+        "memo": "＃れんげにこみ　で　R.E.P.O！クリアごとにお菓子ゲット！",
+        "url": "https://x.com/RyuzenNikomi/status/2111127220358180891"
+    },
+    {
+        "date": "2026/10/18",
+        "place": "ツイキャス",
+        "memo": "おきた！配信準備 ",
+        "url": "https://x.com/RyuzenNikomi/status/2111832569230873017"
+    },
+    {
+        "date": "2026/10/19",
+        "place": "withny",
+        "memo": "Ci-enに投稿しましたでござる！ 「耳舐めオナニー♡で発情して連続イキ♡2回も潮吹いちゃった…」 ",
+        "url": "https://x.com/RyuzenNikomi/status/2111863348304453968"
+    },
+    {
+        "date": "2026/10/19",
+        "place": "ツイキャス",
+        "memo": "にんはようございます",
+        "url": "https://x.com/RyuzenNikomi/status/2111945311996583972"
+    },
+    {
+        "date": "2026/10/23",
+        "place": "Youtube",
+        "memo": "今日はここ‼️ 祝祝祝祝祝祝祝祝‼️",
+        "url": "https://x.com/RyuzenNikomi/status/2113440619666575724"
+    },
+    {
+        "date": "2026/10/26",
+        "place": "ツイキャス",
+        "memo": "鍋🍲",
+        "url": "https://x.com/RyuzenNikomi/status/2114648008243724486"
+    },
+    {
+        "date": "2026/10/27",
+        "place": "ツイキャス",
+        "memo": "作るか、ハヤシライス",
+        "url": "https://x.com/RyuzenNikomi/status/2115007786929332717"
+    },
+    {
+        "date": "2026/10/28",
+        "place": "withny",
+        "memo": "Ci-enに投稿しましたでござる！！！ 「4周年!!「初配信の同時視聴の同時視聴」の同時視聴」 https://t.co/39r0cjSm9w ありがとうございましたでござる！！！！ ",
+        "url": "https://x.com/RyuzenNikomi/status/2115483438493151242"
+    },
+    {
+        "date": "2026/10/30",
+        "place": "Youtube",
+        "memo": "ハロウィンだから＃れんげにこみ　で　R.E.P.O！！",
+        "url": "https://x.com/RyuzenNikomi/status/2116154530136297512"
     }
 ];
