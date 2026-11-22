@@ -959,5 +959,23 @@ const activityData = [
         "place": "Youtube",
         "memo": "ハロウィンだから＃れんげにこみ　で　R.E.P.O！！",
         "url": "https://x.com/RyuzenNikomi/status/2116154530136297512"
+    },
+    {
+        "date": "2026/11/04",
+        "place": "Youtube",
+        "memo": "1：00から！ 【絶叫注意】【バイノーラル♡ささやき】R.E.P.O！の練習 ",
+        "url": "https://x.com/RyuzenNikomi/status/2117644043102687281"
+    },
+    {
+        "date": "2026/11/05",
+        "place": "withny",
+        "memo": "【マゾオナニー】わざとオホ声でオナニーしたら興奮して潮吹きしながら中出し懇願しちゃった♡」",
+        "url": "https://x.com/RyuzenNikomi/status/2118017695308460464"
+    },
+    {
+        "date": "2026/11/06",
+        "place": "Youtube",
+        "memo": "準備中！！ 【参加型】#れんげにこみ　で　R.E.P.O！！ ",
+        "url": "https://x.com/RyuzenNikomi/status/2118692607706742984"
     }
 ];
